@@ -158,3 +158,4 @@ return arr
 end
 
 end)
+return Array
